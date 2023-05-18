@@ -40,7 +40,7 @@ users can get musics with in their playlist.
 
 By providing these CRUD operations and user permissions, the music sharing application allows users to manage and organize their musics and playlists effectively. They can create personalized playlists, add their favorite musics, and control the content they share with others.
 
-finally it utilizes various libraries and tools for managing application state, making asynchronous API calls, handling navigation, and implementing route protection. Here's an overview of the technologies used:
+finally it utilizes various libraries and tools for managing application state, making asynchronous API calls, handling navigation, and implementing route protection and using material UI icons. Here's an overview of the technologies used:
 
 Redux Toolkit: The project uses Redux Toolkit, which is a library that simplifies the process of managing state in Redux. It provides a set of utilities, including a streamlined API, simplified store setup, and built-in Redux middleware.
 
